@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Optimize function calls to method calls (#8507)
